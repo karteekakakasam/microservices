@@ -17,7 +17,7 @@ private ProductService productService;
 
 
 
-    //get all products
+    //get all productss
 
     @GetMapping
     public List<Product >getAllProucts(){
